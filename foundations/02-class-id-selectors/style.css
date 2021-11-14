@@ -1,0 +1,19 @@
+p {
+    background-color: rgb(253, 198, 198);
+    font-family: verdana, sans-serif;
+}
+
+.large_text {
+    font-size: 24px;
+}
+
+#blue {
+    color: blue;
+    font-size: 36px;
+}
+
+#fouth_element {
+    background-color: rgb(176, 255, 176);
+    font-size: 24px;
+    font-weight: bold;
+}
